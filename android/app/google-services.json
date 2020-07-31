@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341624615065",
+    "firebase_url": "https://athennly.firebaseio.com",
+    "project_id": "athennly",
+    "storage_bucket": "athennly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341624615065:android:cdea918eb6cd5883bf8808",
+        "android_client_info": {
+          "package_name": "dev.loie.codays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341624615065-2r7kq4mmm9m4su2jka4tdc5aicfgqun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kKNc_78q2KHAf2yH4ROa1e_OPg268zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341624615065-2r7kq4mmm9m4su2jka4tdc5aicfgqun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
