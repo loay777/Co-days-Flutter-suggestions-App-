@@ -1,16 +1,5 @@
 # codays
 
-A new Flutter application.
+A Flutter Application that is developed to allow users to sign up/log in using thier Email and Password and entering the Home screen where they can enter theier food suggestion (e.g. past, pizza, burger) for lunch dinner or whatever meal of the day. users also can use the spin the wheel feature to choose a random suggestion out of allthe entries.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
